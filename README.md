@@ -1,7 +1,7 @@
 # Some of my programs
 
 ### cyoa_generator.py
-> ##### Generates a choose-your-own-adventure game from an array
+> ##### Generates a playable choose-your-own-adventure game from an array
 ### create_account.php
 > ##### A PHP program that creates an account and stores it on a MySQL database
 ### Friend.exe
