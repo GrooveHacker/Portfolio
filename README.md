@@ -5,4 +5,4 @@
 ### Create Account
 > ##### A backend program I made to create an account and store it on a MySQL database
 ### Friend.exe
-> ##### I swear it's not a virus... But you will need task manager to close it.
+> ##### I swear it's not a virus... but you will need task manager to close it.
