@@ -6,3 +6,5 @@
 > ##### A backend program I made to create an account and store it on a MySQL database
 ### Friend.exe
 > ##### I swear it's not a virus... but you will need task manager to close it.
+### Ajax
+> ##### Just a small JS program for sending an AJAX request to a PHP file
