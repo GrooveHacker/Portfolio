@@ -1,3 +1,5 @@
+//Ajax request with JQUERY ready event
+
 $(document).ready(() => {
     document.querySelector("#button").onclick = () => {
         $.ajax({
