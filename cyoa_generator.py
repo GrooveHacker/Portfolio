@@ -1,3 +1,6 @@
+#choose-your-own-adventure generator
+#AP Computer Science Principles Create Task
+
 import time
 
 #choose-your-own-adventure template
