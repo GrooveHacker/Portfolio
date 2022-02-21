@@ -1,6 +1,6 @@
 # Portfolio
 
-### CYOA Generator
+### cyoa_generator.py
 > ##### Generates a choose-your-own-adventure game from a 2D array
 ### Create Account
 > ##### A PHP program that creates an account and stores it on a MySQL database
