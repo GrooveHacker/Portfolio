@@ -1,5 +1,4 @@
 # Some of my programs
-
 ### cyoa_generator.py
 > ##### Generates a playable choose-your-own-adventure game from an array
 ### create_account.php
