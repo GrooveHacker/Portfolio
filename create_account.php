@@ -2,7 +2,7 @@
     recaptcha();
     
     function recaptcha() {
-        $secret = "CAPTCHA_SECRET_HERE";
+        $secret = getenv("CAPTCHA_SECRET_ENV");
         $captcha = $_POST["token"];
 
         $options = array(
